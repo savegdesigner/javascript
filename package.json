@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Practicing scripts",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savegdesigner/javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Vinicius Savegnago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savegdesigner/javascript/issues"
+  },
+  "homepage": "https://github.com/savegdesigner/javascript#readme"
+}
