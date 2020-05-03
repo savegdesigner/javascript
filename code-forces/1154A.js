@@ -1,4 +1,4 @@
-// https://codeforces.com/problemset/problem/1154/A
+// https://codeforces.com/problemset/problem/1154/A *
 
 function restoreNumbers(n1, n2, n3, n4){
 
