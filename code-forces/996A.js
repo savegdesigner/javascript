@@ -8,7 +8,7 @@ function jackPot(n){
 
     while(c != n){
 
-        for(let i= 0; i < b.length; i++){
+        for(let i = 0; i < b.length; i++){
             if(b[i] < n){
                 while(c < n){
                     c += b[i]   
